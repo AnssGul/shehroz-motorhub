@@ -69,5 +69,27 @@
     "images": [
       "Nill"
     ]
+  },
+  {
+    "id": 4,
+    "price": "Rs 59,50,000",
+    "title": "Honda Civic 1.8 i-VTEC Oriel",
+    "location": "Lahore",
+    "posted": "Today",
+    "year": 2019,
+    "registration": "2019 Lahore",
+    "kms": 74000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "make": "Honda",
+    "model": "Civic 1.8 i-VTEC Oriel",
+    "condition": "Body Total Original, Mechanically Well Maintained",
+    "bodyType": "Sedan",
+    "color": "Nill",
+    "seats": 5,
+    "details": "Single owner (booking owner). Michelin new tyres. Just buy & drive.",
+    "images": [
+      "Nill"
+    ]
   }
 ]
