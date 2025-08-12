@@ -47,5 +47,27 @@
       "/cars/vizel/vizel2.jpg",
       "/cars/vizel/vizel3.jpg"
     ]
+  },
+  {
+    "id": 3,
+    "price": "Rs 46,50,000",
+    "title": "Toyota Yaris X 1.5 CVT",
+    "location": "Nill",
+    "posted": "Today",
+    "year": 2021,
+    "registration": "Nill",
+    "kms": "Nill",
+    "fuel": "Nill",
+    "transmission": "CVT",
+    "make": "Toyota",
+    "model": "Yaris X 1.5 CVT",
+    "condition": "Nill",
+    "bodyType": "Nill",
+    "color": "Black",
+    "seats": "Nill",
+    "details": "Nill",
+    "images": [
+      "Nill"
+    ]
   }
 ]
