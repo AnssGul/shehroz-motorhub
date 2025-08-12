@@ -18,10 +18,10 @@
     "seats": 5,
     "details": "3/4 parts spray due to scratches. Engine and suspension perfect.",
     "images": [
-      "/src/assets/cars/corrola.jpg",
-      "/src/assets/cars/cr2.jpg",
-      "/src/assets/cars/cr3.jpg",
-      "/src/assets/cars/cr4.jpg"
+      "/cars/cr3.jpg",
+      "/cars/cr2.jpg",
+      "/cars/corrola.jpg",
+      "/cars/cr4.jpg"
     ]
   },
   {
@@ -43,9 +43,9 @@
     "seats": "Nill",
     "details": "Total genuine. New tyres.",
     "images": [
-      "/src/assets/cars/vizel/vizel1.jpg",
-      "/src/assets/cars/vizel/vizel2.jpg",
-      "/src/assets/cars/vizel/vizel3.jpg"
+      "/cars/vizel/vizel1.jpg",
+      "/cars/vizel/vizel2.jpg",
+      "/cars/vizel/vizel3.jpg"
     ]
   }
 ]
