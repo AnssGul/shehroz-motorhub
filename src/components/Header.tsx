@@ -13,25 +13,23 @@ const Header: React.FC = () => {
             <Car className="h-8 w-8 text-blue-600" />
             <span className="text-2xl font-bold text-gray-900">Shehroz MotorHub</span>
           </Link>
-          
+
           <nav className="hidden md:flex items-center space-x-8">
-            <Link 
-              to="/" 
-              className={`text-lg font-medium transition-colors ${
-                location.pathname === '/' 
-                  ? 'text-blue-600' 
+            <Link
+              to="/"
+              className={`text-lg font-medium transition-colors ${location.pathname === '/'
+                  ? 'text-blue-600'
                   : 'text-gray-700 hover:text-blue-600'
-              }`}
+                }`}
             >
               Home
             </Link>
-            <Link 
-              to="/cars" 
-              className={`text-lg font-medium transition-colors ${
-                location.pathname === '/cars' 
-                  ? 'text-blue-600' 
+            <Link
+              to="/cars"
+              className={`text-lg font-medium transition-colors ${location.pathname === '/cars'
+                  ? 'text-blue-600'
                   : 'text-gray-700 hover:text-blue-600'
-              }`}
+                }`}
             >
               All Cars
             </Link>
@@ -46,7 +44,7 @@ const Header: React.FC = () => {
               <span className="hidden sm:inline">+92 342 333 0020</span>
             </a>
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/share/1AqyXz6d6M/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-700 hover:text-blue-600 transition-colors"
@@ -58,23 +56,21 @@ const Header: React.FC = () => {
 
         {/* Mobile Navigation */}
         <nav className="md:hidden mt-4 flex space-x-4">
-          <Link 
-            to="/" 
-            className={`px-4 py-2 rounded-lg font-medium transition-colors ${
-              location.pathname === '/' 
-                ? 'bg-blue-600 text-white' 
+          <Link
+            to="/"
+            className={`px-4 py-2 rounded-lg font-medium transition-colors ${location.pathname === '/'
+                ? 'bg-blue-600 text-white'
                 : 'text-gray-700 hover:bg-gray-100'
-            }`}
+              }`}
           >
             Home
           </Link>
-          <Link 
-            to="/cars" 
-            className={`px-4 py-2 rounded-lg font-medium transition-colors ${
-              location.pathname === '/cars' 
-                ? 'bg-blue-600 text-white' 
+          <Link
+            to="/cars"
+            className={`px-4 py-2 rounded-lg font-medium transition-colors ${location.pathname === '/cars'
+                ? 'bg-blue-600 text-white'
                 : 'text-gray-700 hover:bg-gray-100'
-            }`}
+              }`}
           >
             All Cars
           </Link>

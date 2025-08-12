@@ -33,9 +33,9 @@ const Footer: React.FC = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Facebook className="h-5 w-5 text-blue-600" />
-                <a 
-                  href="https://facebook.com" 
-                  target="_blank" 
+                <a
+                  href="https://www.facebook.com/share/1AqyXz6d6M/"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-blue-400 transition-colors"
                 >

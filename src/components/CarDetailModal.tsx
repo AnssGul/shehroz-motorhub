@@ -80,7 +80,7 @@ const CarDetailModal: React.FC<CarDetailModalProps> = ({ car, isOpen, onClose })
                 <span>Posted {car.posted}</span>
               </div>
             </div>
-            
+
             <button
               onClick={handleWhatsApp}
               className="bg-green-500 hover:bg-green-600 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-200 flex items-center justify-center space-x-2"

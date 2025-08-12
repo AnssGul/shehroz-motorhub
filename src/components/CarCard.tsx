@@ -34,12 +34,12 @@ const CarCard: React.FC<CarCardProps> = ({ car, onClick }) => {
   };
 
   return (
-    <div 
+    <div
       className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer overflow-hidden"
       onClick={onClick}
     >
       <ImageCarousel images={car.images} title={car.title} />
-      
+
       <div className="p-6">
         <div className="flex justify-between items-start mb-3">
           <h3 className="text-xl font-bold text-gray-900 line-clamp-1">{car.title}</h3>
