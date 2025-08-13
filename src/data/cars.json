@@ -67,7 +67,8 @@
     "seats": "Nill",
     "details": "Nill",
     "images": [
-      "/IMG-20250812-WA0072.jpg"
+      "/IMG-20250812-WA0072.jpg",
+      "/yaris2.jpg"
     ]
   },
   {
@@ -89,7 +90,56 @@
     "seats": 5,
     "details": "Single owner (booking owner). Michelin new tyres. Just buy & drive.",
     "images": [
-      "/civic.jpg"
+      "/cars/civic/civic.jpg",
+      "/cars/civic/civic1.jpg",
+      "/cars/civic/civic2.jpg",
+      "/cars/civic/civic3.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "price": "DM for Price",
+    "title": "Toyota Fortuner Sigma 2022 Model",
+    "location": "Nill",
+    "posted": "Today",
+    "year": 2022,
+    "registration": "Nill",
+    "kms": 48000,
+    "fuel": "Nill",
+    "transmission": "Automatic",
+    "make": "Toyota",
+    "model": "Fortuner Sigma",
+    "condition": "Nill",
+    "bodyType": "SUV",
+    "color": "White",
+    "seats": "7",
+    "details": "Nill",
+    "images": [
+      "/cars/fotuner/fortuner.jpg",
+      "/cars/fotuner/futuner1.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "price": "2,225,000",
+    "title": "Suzuki WagonR VXL 2016",
+    "location": "Nill",
+    "posted": "Today",
+    "year": 2016,
+    "registration": "Nill",
+    "kms": 88000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "make": "Suzuki",
+    "model": "WagonR VXL",
+    "condition": "Used",
+    "bodyType": "Hatchback",
+    "color": "White",
+    "seats": "5",
+    "details": "Neat and clean home used car. 1/2 piece minor spray. Non-accidental. Engine and suspension 100%.",
+    "images": [
+      "/cars/wagonr/wagonE.jpg",
+      "/cars/wagonr/wagonR.jpg"
     ]
   }
 ]
