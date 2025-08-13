@@ -141,5 +141,27 @@
       "/cars/wagonr/wagonE.jpg",
       "/cars/wagonr/wagonR.jpg"
     ]
+  },
+{
+    "id": 7,
+    "price": "Rs 52,00,000",
+    "title": "Toyota Corolla Grande",
+    "location": "Nill",
+    "posted": "Today",
+    "year": 2018,
+    "registration": "2019",
+    "kms": 90000,
+    "fuel": "Nill",
+    "transmission": "Nill",
+    "make": "Toyota",
+    "model": "Corolla Grande",
+    "condition": "Nill",
+    "bodyType": "Sedan",
+    "color": "Nill",
+    "seats": "Nill",
+    "details": "Model 2018 / Registered 2019. 90,000 km driven.",
+    "images": [
+      "/cars/grande/grande1.jpg"
+    ]
   }
 ]
