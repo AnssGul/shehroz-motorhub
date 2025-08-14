@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Corolla GLi",
+        "yearRange": "2015-2017",
+        "transmission": "Manual / Automatic",
+        "condition": "Excellent, no touch-up or shower",
+        "otherDetails": "Accident-free, original paint",
+        "contactPhone": "+92 300 123 4567",
+        "contactName": "Ahmed Khan",
+        "website": "www.shehrozmotorhub.com"
+    },
+    {
+        "id": 2,
+        "brand": "Honda",
+        "model": "Civic VTi",
+        "yearRange": "2016-2018",
+        "transmission": "Automatic",
+        "condition": "Good condition, minor scratches acceptable",
+        "otherDetails": "Complete documents, Karachi registered",
+        "contactPhone": "+92 321 987 6543",
+        "contactName": "Sara Ahmed",
+        "website": "www.shehrozmotorhub.com"
+    },
+    {
+        "id": 3,
+        "brand": "Suzuki",
+        "model": "Cultus VXR",
+        "yearRange": "2018-2020",
+        "transmission": "Manual",
+        "condition": "Excellent, first owner preferred",
+        "otherDetails": "Low mileage, service history available",
+        "contactPhone": "+92 333 456 7890",
+        "contactName": "Ali Hassan",
+        "website": "www.shehrozmotorhub.com"
+    },
+    {
+        "id": 4,
+        "brand": "Hyundai",
+        "model": "Elantra GLS",
+        "yearRange": "2017-2019",
+        "transmission": "Automatic",
+        "condition": "Very good, minor wear acceptable",
+        "otherDetails": "Sunroof preferred, leather seats",
+        "contactPhone": "+92 345 678 9012",
+        "contactName": "Fatima Sheikh",
+        "website": "www.shehrozmotorhub.com"
+    },
+    {
+        "id": 5,
+        "brand": "Nissan",
+        "model": "Sunny XL",
+        "yearRange": "2014-2016",
+        "transmission": "Manual / Automatic",
+        "condition": "Good condition, budget-friendly",
+        "otherDetails": "CNG kit acceptable, Lahore registered",
+        "contactPhone": "+92 312 345 6789",
+        "contactName": "Muhammad Usman",
+        "website": "www.shehrozmotorhub.com"
+    },
+    {
+        "id": 6,
+        "brand": "Mitsubishi",
+        "model": "Lancer GLX",
+        "yearRange": "2015-2017",
+        "transmission": "Automatic",
+        "condition": "Excellent, well-maintained",
+        "otherDetails": "Original alloy rims, tinted windows",
+        "contactPhone": "+92 301 234 5678",
+        "contactName": "Zain Malik",
+        "website": "www.shehrozmotorhub.com"
+    }
+]
